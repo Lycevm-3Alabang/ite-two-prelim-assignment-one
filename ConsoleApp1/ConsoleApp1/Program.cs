@@ -3,9 +3,20 @@ using System.Collections.Generic;
 
 class Program
 {
-    private static List<Student> students = new List<Student>();
+    private List<Student> students;
+
+    public Program()
+    {
+        students = new List<Student>();
+    }
 
     static void Main()
+    {
+        Program program = new Program();
+        program.Run();
+    }
+
+    public void Run()
     {
         bool running = true;
 
@@ -51,7 +62,7 @@ class Program
         }
     }
 
-    public static void AddStudent()
+    public void AddStudent()
     {
         Console.Write("Enter student name: ");
         string name = Console.ReadLine();
@@ -72,7 +83,7 @@ class Program
         Console.WriteLine("Student added successfully!");
     }
 
-    public static void ViewStudents()
+    public void ViewStudents()
     {
         if (students.Count == 0)
         {
@@ -95,7 +106,7 @@ class Program
         }
     }
 
-    public static void ComputeClassAverage()
+    public void ComputeClassAverage()
     {
         if (students.Count == 0)
         {
@@ -114,7 +125,7 @@ class Program
             (total / students.Count).ToString("F2"));
     }
 
-    public static void FindHighestGrade()
+    public void FindHighestGrade()
     {
         if (students.Count == 0)
         {
@@ -122,8 +133,8 @@ class Program
             return;
         }
 
-        double highestGrade = 0;
-        string topStudent = "";
+        double highestGrade = students[0].GetHighestGrade();
+        string topStudent = students[0].GetName();
 
         foreach (Student student in students)
         {
