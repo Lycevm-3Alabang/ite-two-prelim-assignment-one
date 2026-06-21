@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\STUDENT\\source\\repos\\BSIT31E1_PRELIM_H1_PELARCA_HARVEY\\ConsoleApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\Ishpo\\source\\repos\\BSIT31E1_PRELIM_H1_PELARCA_HARVEY\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\student\\source\\repos\\bsit31e1_prelim_h1_pelarca_harvey\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ishpo\\source\\repos\\bsit31e1_prelim_h1_pelarca_harvey\\consoleapp1\\consoleapp1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ishpo\\source\\repos\\bsit31e1_prelim_h1_pelarca_harvey\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\student\\source\\repos\\bsit31e1_prelim_h1_pelarca_harvey\\consoleapp1\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ishpo\\source\\repos\\bsit31e1_prelim_h1_pelarca_harvey\\consoleapp1\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -18,12 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 11,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
@@ -71,27 +71,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Ishpo\\source\\repos\\BSIT31E1_PRELIM_H1_PELARCA_HARVEY\\ConsoleApp1\\ConsoleApp1\\Student.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Student.cs",
+              "ToolTip": "C:\\Users\\Ishpo\\source\\repos\\BSIT31E1_PRELIM_H1_PELARCA_HARVEY\\ConsoleApp1\\ConsoleApp1\\Student.cs",
+              "RelativeToolTip": "ConsoleApp1\\Student.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T07:40:39.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\BSIT31E1_PRELIM_H1_PELARCA_HARVEY\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ishpo\\source\\repos\\BSIT31E1_PRELIM_H1_PELARCA_HARVEY\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\BSIT31E1_PRELIM_H1_PELARCA_HARVEY\\ConsoleApp1\\ConsoleApp1\\Program.cs*",
+              "ToolTip": "C:\\Users\\Ishpo\\source\\repos\\BSIT31E1_PRELIM_H1_PELARCA_HARVEY\\ConsoleApp1\\ConsoleApp1\\Program.cs*",
               "RelativeToolTip": "ConsoleApp1\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAJYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-15T16:56:57.657Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ConsoleApp1.csproj",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\BSIT31E1_PRELIM_H1_PELARCA_HARVEY\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\Ishpo\\source\\repos\\BSIT31E1_PRELIM_H1_PELARCA_HARVEY\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
               "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
-              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\BSIT31E1_PRELIM_H1_PELARCA_HARVEY\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "ToolTip": "C:\\Users\\Ishpo\\source\\repos\\BSIT31E1_PRELIM_H1_PELARCA_HARVEY\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
               "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-15T16:56:55.505Z"
+              "WhenOpened": "2026-06-15T16:56:55.505Z",
+              "EditorCaption": ""
             }
           ]
         }
